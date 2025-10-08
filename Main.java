@@ -52,6 +52,7 @@ public class Main {
                     s.replace(prevChar, newChar);
                     System.out.println("Result is:" + s.str);
                     break;
+                    
 
                 case 4:
                     boolean result = s.isPalindrome();
